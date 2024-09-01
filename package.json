@@ -1,13 +1,14 @@
 {
   "dependencies": {
-    "express": "4.19.2"
+    "cors": "2.8.5",
+    "express": "4.19.2",
+    "zod": "3.23.8"
   },
   "name": "nodejs-clase3-midudev",
   "description": "",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "dev": "app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
